@@ -86,9 +86,9 @@ Algoritmo NumerosOrden
 	
 	
 	Escribir"LA LISTA ORDENADA ES ASÍ"
+	//ARREGLADO EL BUG DE TOTA+1//
 	
-	
-	Para i<-1 Hasta tota+1 Con Paso 1 Hacer
+	Para i<-1 Hasta total Con Paso 1 Hacer
 		
 		Escribir Lista[i]
 		
